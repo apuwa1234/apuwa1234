@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Alice, I am a Computer Science Student based in Austalia.
+
+I love the process of designing and building, stright from my imagination. 
